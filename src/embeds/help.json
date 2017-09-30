@@ -1,0 +1,14 @@
+{
+	"author": "kobe-bot Help",
+	"desc": "Prefix: `k:`",
+	"cmtitle": "Commands:",
+	"generaltitle": "General:",
+	"general": "::Help - Shows this menu\n::Latency - Time message recieved - Time message sent\n::User - Get information on a user\n::Server - Get information on this server\n::ID - Get the ID of a user or bot\n",
+	"funtitle": "Fun:",
+	"fun": "::Joke - Sends a joke (WARNING: Offensive)\n::8ball - Ask a question, you shall receive an answer\n::Greetings - Sends a greeting out",
+	"misctitle": "Miscellaneous:",
+	"misc": "::Say - Self explanatory\n::Test - Use this to check if the bot is active",
+	"extratitle": "Mr. Meme Master",
+	"extra": "YouTube: https://www.youtube.com/channel/UCv531oCdEYMk9-qRzw6Zg2Q\nDiscord: https://discord.gg/H6adzuc",
+	"footer": "Made by @anthony#0121"
+}
